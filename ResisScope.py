@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import ee
 
 # Authenticate and initialize the Earth Engine API
@@ -40,3 +41,6 @@ def main(lat, lon, buffer, year):
 
 # Example usage for Omaha, Nebraska
 main(41.2565, -95.9345, 10, 2024)
+=======
+print("Initial Commit")
+>>>>>>> b53280c7f104b24ca98ba87eec91b3b51ff88deb
